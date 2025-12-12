@@ -7,7 +7,7 @@ This tool allows you to scrape potential credit card leaks from public Telegram 
 
 1.  **Dependencies**:
     ```bash
-    pip install telethon python-dotenv
+    pip install -r requirements.txt
     ```
 
 2.  **Configuration (.env)**:
